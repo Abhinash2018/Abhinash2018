@@ -13,7 +13,7 @@ Intelligent system that listens to audio and recommends guitar or piano chords u
 - 🎯 Mood-aware chord recommendations based on tone & structure
 - **Tech:** Python • TensorFlow • librosa • OpenCV
 
-[View Project →](https://github.com/Abhinash2018/Audio-to-Chord-Recommendation)
+[View Project →](https://github.com/Abhinash2018/ChordsRecommender-detector.git)
 
 ---
 
@@ -24,7 +24,7 @@ Computer vision app that turns hand movements into system commands—no keyboard
 - ⚡ Low-latency performance with MediaPipe
 - **Tech:** Python • OpenCV • MediaPipe • PyAutoGUI
 
-[View Project →](https://github.com/Abhinash2018/Hand-Gesture-Control-Interface)
+[View Project →](https://github.com/Abhinash2018/Handgesture-control.git)
 
 ---
 
@@ -35,7 +35,7 @@ Multi-source ML system that detects road hazards by combining traffic camera fee
 - 🌦️ Integrates live weather APIs with computer vision
 - **Tech:** Python • TensorFlow • OpenCV • Scikit-learn • Pandas
 
-[View Project →](https://github.com/Abhinash2018/Road-Hazard-Detection)
+[View Project →](https://github.com/Abhinash2018/RoadHazardSafety.git)
 
 ---
 
