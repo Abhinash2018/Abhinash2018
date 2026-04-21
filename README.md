@@ -55,7 +55,7 @@ Multi-source ML system that detects road hazards by combining traffic camera fee
 ## 🎓 Background
 
 - **Bachelor of Science in Computer Science** | Texas State University (Expected 2028)
-- **GPA:** 3.51 | Dean's List | Achievement-Based Scholarship Recipient
+- **GPA:** 3.81 | Dean's List | Achievement-Based Scholarship Recipient
 - **Coursework:** Data Structures & Algorithms, Discrete Math, Operations Research, Foundations of CS
 
 **Certifications:**
