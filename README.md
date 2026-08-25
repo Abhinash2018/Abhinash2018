@@ -80,7 +80,6 @@ Multi-source ML system that detects road hazards by combining traffic camera fee
 
 - **Email:** abhighimire111@gmail.com
 - **LinkedIn:** [linkedin.com/in/abinash737](https://linkedin.com/in/abinash737)
-- **Phone:** 737-388-5319
 
 ---
 
